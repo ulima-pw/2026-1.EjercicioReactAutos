@@ -1,7 +1,7 @@
 import ItemAuto from "./ItemAuto"
 
 function TablaAutos({autos}) {
-    return <table className="w-full bg-white border border-gray-200 text-left text-sm text-gray-500">
+    return <table className="mt-4 w-full bg-white border border-gray-200 text-left text-sm text-gray-500">
         <thead className="bg-gray-200">
             <tr>
                 <th className="px-6">Num.</th>
